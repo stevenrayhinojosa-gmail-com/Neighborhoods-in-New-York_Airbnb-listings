@@ -6,8 +6,6 @@
 ![Sheet 1(11)](https://github.com/stevenrayhinojosa-gmail-com/Neighborhoods-in-New-York_Airbnb-listings/assets/17886818/2970a1fa-0f2c-4a7c-a8a7-cd4e0d98a8ef)
 
 
-A table of neighborhoods in New York and the number of Airbnb listings in each
-
 Title: Neighborhood Analysis of Airbnb Listings in New York
 
 Introduction:
